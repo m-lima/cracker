@@ -1,9 +1,9 @@
 [submodule "lib/cl"]
 	path = lib/cl
-	url = https://m-lima@github.com/m-lima/cl
+	url = https://github.com/m-lima/cl
 [submodule "lib/fmt"]
 	path = lib/fmt
 	url = https://github.com/fmtlib/fmt
 [submodule "include/mfl"]
 	path = include/mfl
-	url = https://m-lima@github.com/m-lima/mfl
+	url = https://github.com/m-lima/mfl
