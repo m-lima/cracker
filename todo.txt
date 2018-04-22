@@ -1,0 +1,22 @@
+ x - Done
+ ! - Attention
+ o - Ignored
+
+[x] Break up cracker as template
+ * [x] Fix headers
+[x] Break up execution on limits
+[x] Check worksize limits
+[x] Fix large number cracking
+[x] Change "-s" with "-d DEVICE=GPU"
+[x] Multi iteration GPU is not working (problem is in CPP)
+[x] Binary search on GPU is missing occasionally
+[x] GPU cracker is not respecting range
+[x] Control kernel range size from arguments
+[x] Hard code limits, intead of a 'while > 0xefffffff'
+[x] Rainbow table is not working
+[x] Make opencl source part of the binary (in a prettier way)
+[x] Branchless search (Done.. But not worth it.. Branchless binary search was dismissed)
+[o] Global runner.cpp verbose (Useless if not debugging.. Dismissed)
+[o] Add version detection to rainbow (No more rainbow table.. Dismissed)
+[ ] Add support for 128 bit hashes
+[ ] Persist options
